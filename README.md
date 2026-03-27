@@ -31,7 +31,7 @@ where `Booking Status` = 'Successful';
 * Revenue Growth: Revenue peaks during weekends and festive seasons, highlighting opportunities for  targeted promotions.
 * Customer Satisfaction: Cities with better driver availability and lower wait times show higher      average ratings.
 * Peak Hours: Demand is highest during morning (8–10 AM) and evening (5–8 PM) commute hours.
-* 
+  
  # Conclusions
  
 The analysis reveals that operational efficiency can be improved by:
