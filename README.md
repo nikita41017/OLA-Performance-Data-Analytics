@@ -22,3 +22,6 @@ The dataset includes OLA ride information such as booking status, trip details, 
 select *
 from bookings
 where `Booking Status` = 'Successful';
+select *
+from bookings
+where `Booking Status` = 'Successful';
